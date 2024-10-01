@@ -1,2 +1,4 @@
 Create a program that will randomly provide six lucky numbers, from 1 to 49
-
+Ask the user how many draws to make.
+Limit the draw to six.
+The user can also throw a dice to get a number.
